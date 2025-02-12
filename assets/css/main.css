@@ -809,6 +809,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
+  background: url("../img/hero-bg-abstract.png") no-repeat center center/cover;
   min-height: calc(75vh - 75px);
   position: relative;
   display: flex;
